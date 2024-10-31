@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orion Luxury Watches</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Home Section -->
+    <section class="hero">
+        <h1>Orion Luxury Watches</h1>
+        <p>Discover Timeless Elegance</p>
+        <button>Explore Collection</button>
+    </section>
+
+    <!-- Featured Collections -->
+    <section class="featured">
+        <h2>Featured Collections</h2>
+        <div class="watch-gallery">
+            <div class="watch-card">Classic Collection</div>
+            <div class="watch-card">Modern Elegance</div>
+            <div class="watch-card">Limited Editions</div>
+        </div>
+    </section>
+
+    <!-- Why Choose Orion -->
+    <section class="why-choose">
+        <h2>Why Choose Orion</h2>
+        <p>Craftsmanship, precision, and luxury in every piece.</p>
+    </section>
+
+    <!-- Testimonials -->
+    <section class="testimonials">
+        <h2>What Our Customers Say</h2>
+        <p>"Orion watches are a true mark of elegance!" - John D.</p>
+        <p>"Exquisite designs and quality." - Sarah L.</p>
+    </section>
+
+    <!-- Contact Us -->
+    <section class="contact">
+        <h2>Contact Us</h2>
+        <form>
+            <label for="name">Name</label>
+            <input type="text" id="name" name="name">
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email">
+            <label for="message">Message</label>
+            <textarea id="message" name="message"></textarea>
+            <button type="submit">Submit</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Orion Luxury Watches</p>
+    </footer>
+</body>
+</html>
